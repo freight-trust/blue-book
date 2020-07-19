@@ -1,5 +1,17 @@
-# blue-book
-China Blueprint for Blockchain 
+# China Blueprint for Blockchain 
+
+
+## Takeaways
+
+| **Project Name**                                                                | **Function**                   | **Goals**                                                                                                                                                                                        |
+|---------------------------------------------------------------------------------|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Beijing Economic and Technological Development Zone Government Services         | Enterprise governance          | Create a “one\-stop” service platform in the special economic zone that manages government services\. This will help make the area “a world\-class business environment,” according to Beijing\. |
+| Multi\-terminal Business Licensing System                                       | Enterprise Regulation          | Improve authentication processes for businesses, as well as collaboration between firms through electronic certificates\.                                                                        |
+| Haidian District Finance Platform for SMEs                                      | Finance for SMEs               | Improve access to capital for SMEs and risk management for their lenders\.                                                                                                                       |
+| Municipal Commercial Bureau Airport International Logistics Blockchain Platform | Logistics, cross\-border trade | Data sharing between merchants, logistics operators, customs authorities, regulators, airport authorities to facilitate customs in cross\-border air cargo trade\.                               |
+| Beijing\-Tianjin\-Hebei Port Customs Clearance                                  | Logistics, cross\-border trade | Data sharing between port authorities, tax agencies, and customs authorities to coordinate between port terminals\.                                                                              |
+
+[source](https://technode.com/2020/07/16/beijing-unveils-plan-for-blockchain-based-government/)
 
 ### Overview
 
@@ -27,21 +39,6 @@ Build a paperless platform for container equipment transfer orders in Tianjin Po
 "Enterprises can also realize one-click operation and paperless insurance for export cargo credit through the “single window” in Beijing . They have changed the traditional paper materials such as insurance policies that require signatures and seals, saving manpower and financial resources. Recently, the "Single Window" officially launched the automatic auxiliary declaration system for auto parts, which has covered more than 110,000 pieces of auto parts data for GM, Volkswagen and Toyota."  
 
 [WTO Single Window Paper](https://www.wto.org/english/tratop_e/tradfa_e/comm_e/meet_oct18_bra_sw_e.pdf)
-
-
-
-### Highlights Specific to Supply Chain
-
-| **** | ****                                                                            | ****                           | ****                                                                                                                                                                                             |
-|------|---------------------------------------------------------------------------------|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1    |                                                                                 |                                |                                                                                                                                                                                                  |
-| 2    | Project Name                                                                    | Function                       | Goals                                                                                                                                                                                            |
-| 3    | Beijing Economic and Technological Development Zone Government Services         | Enterprise governance          | Create a “one\-stop” service platform in the special economic zone that manages government services\. This will help make the area “a world\-class business environment,” according to Beijing\. |
-| 4    | Multi\-terminal Business Licensing System                                       | Enterprise Regulation          | Improve authentication processes for businesses, as well as collaboration between firms through electronic certificates\.                                                                        |
-| 5    | Haidian District Finance Platform for SMEs                                      | Finance for SMEs               | Improve access to capital for SMEs and risk management for their lenders\.                                                                                                                       |
-| 6    | Municipal Commercial Bureau Airport International Logistics Blockchain Platform | Logistics, cross\-border trade | Data sharing between merchants, logistics operators, customs authorities, regulators, airport authorities to facilitate customs in cross\-border air cargo trade\.                               |
-| 7    | Beijing\-Tianjin\-Hebei Port Customs Clearance                                  | Logistics, cross\-border trade | Data sharing between port authorities, tax agencies, and customs authorities to coordinate between port terminals\.                                                                              |
-
 
 
 ### Supply chain finance is the most popular financial blockchain application in China.
